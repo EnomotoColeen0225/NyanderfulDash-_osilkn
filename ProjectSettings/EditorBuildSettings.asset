@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 212b0a18b9c40b14cbb5214a7f17b244
+  - enabled: 1
+    path: Assets/Scenes/SoloGame.unity
+    guid: b5377cca383415c44aa1a11a5f3f9456
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: ac541b063b0549b4ba8340f798756f26
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SelectMode.unity
+    guid: 403248a4e9b907a47831c8396825c384
+  - enabled: 1
+    path: Assets/Scenes/DuoGame.unity
+    guid: 7c95eba4d38eb1a43a30cdcdafea8cbf
   m_configObjects: {}
